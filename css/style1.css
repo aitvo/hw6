@@ -1,0 +1,13 @@
+.blue-background {
+  background-color: blue;
+  color: white; 
+}
+table {
+  width: 100%; 
+  border-collapse: collapse; 
+}
+td {
+  text-align: center; 
+  padding: 10px; 
+  border: 1px solid #ddd; 
+}
